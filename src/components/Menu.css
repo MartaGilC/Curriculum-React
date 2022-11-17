@@ -1,0 +1,12 @@
+.buttonMenu{
+    background-color: #77a8a8;
+    border-color: #b9b0b0;
+    height: 75px;
+    width: 200px;
+    margin-left: 20px;
+    border-radius: 10px;
+    color: #535050;
+    font-size:large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace
+}

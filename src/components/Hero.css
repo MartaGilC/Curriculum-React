@@ -1,0 +1,30 @@
+.firstImg{ width: 250px;
+margin: 20px;
+box-shadow: 10px 5px 45px 4px gray}
+
+.name{display: flex;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    padding-left: 20px;
+    padding-right: 10px;
+    text-align: center;
+    border-radius: 12px;
+  }
+
+.titleName{ font-size: 50px;
+  font-weight: 5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:#787373;
+}
+
