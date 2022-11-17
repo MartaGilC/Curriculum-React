@@ -3,22 +3,23 @@
     display:flex;
     flex-direction: column;
     padding-left: 50px;
-    width: 600px;
+    
     padding-right: 50px;
     border-radius: 12px;
     padding-bottom: 30px;
     text-align: center;
+    min-width: 300px;
 }
 
 .name{display: flex;
 justify-content: center;
 font-weight: bold;
-color: #787373;
+color: rgb(37, 37, 37);
 font-family: 'Courier New', Courier, monospace}
 
 p{display: flex;
     justify-content: center;
     font-weight: bold;
-    color: #787373;
+    color: rgb(37, 37, 37);
     font-family: 'Courier New', Courier, monospace}
   

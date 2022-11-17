@@ -9,5 +9,5 @@
  .education{display: flex;
     justify-content: center;
     font-weight: bold;
-    color: #787373;
+    color: rgb(37, 37, 37);
     font-family: 'Courier New', Courier, monospace}

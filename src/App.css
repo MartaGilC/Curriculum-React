@@ -5,7 +5,7 @@
   padding-right: 20px;
   text-align: center;
   border-radius: 20px;
-  background-color: #ded6d6;
+ 
   margin: 80px;
 }
 
@@ -45,11 +45,27 @@
 body, html{ background-color: #d9ecd0  }
 
 
-.bienvenido{display: flex;
-  justify-content:center;
-  font-weight: bold;
-  color: #787373;
-  font-family: 'Courier New', Courier, monospace}
 
-  .firstButton{ height: 75px;
-    width: 200px;}
+
+  .firstButton{  
+    background:  #77a8a8;;
+    background: linear-gradient(0deg,#6b8686 0%, #77a8a8 100%);
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    height: 50px;
+    width: 80px;
+    color: rgb(37, 37, 37);
+  }
+  .firstButton:before{
+      height: 0%;
+      width: 2px;
+  }
+  
+  .firstButton:hover{
+      box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+      -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+  inset -4px -4px 6px 0 rgba(255,255,255,.2),
+  inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+  
+  }

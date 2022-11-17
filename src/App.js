@@ -6,11 +6,11 @@ import { useState } from 'react'
 import Menu from "./components/Menu";
 
 
-console.log("lo k no veo", CV)
+
 
 const { hero } = CV;
 
-console.log(CV)
+
 
 function App() {
  

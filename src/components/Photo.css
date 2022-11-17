@@ -3,17 +3,7 @@
     align-items: center;
 }
 
-button{
-background-color: #77a8a8;
-border-style: solid;
-border-width: 1px;
-border-color: #b9b0b0;
-border-radius: 10px;
-color: #535050;
-font-size:large;
-font-weight: bold;
-font-family: 'Courier New', Courier, monospace
-}
+
 
 
 img{width: 300px;
